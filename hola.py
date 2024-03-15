@@ -1,0 +1,1 @@
+hola=int(input("Cuanto es 2+2"))
